@@ -1,0 +1,10 @@
+{
+	"name":"Realtime-Chat",
+	"description":"real time chat app",
+	"dependencies": 
+	{
+	    "express": "latest",
+	    "socket.io":"latest",
+	    "jade": "latest"
+	}
+}
