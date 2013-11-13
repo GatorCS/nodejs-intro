@@ -10,7 +10,7 @@ Today we'll be configuring a web server, serving up HTML pages with node, and go
 
 To clone this repo do the following command in the shell (make sure you're in the directory you want your work to be first):
 
-git clone git@github.com:GatorCS/nodejs-intro.git
+git clone https://github.com/GatorCS/nodejs-intro.git
 
 
 The command to run the web server locally is the following:
